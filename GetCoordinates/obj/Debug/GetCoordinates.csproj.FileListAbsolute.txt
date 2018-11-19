@@ -1,0 +1,16 @@
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\Accord.dll.config
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\GetCoordinates.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\GetCoordinates.pdb
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\Accord.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\Accord.Math.Core.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\Accord.Math.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\gdalconst_csharp.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\gdal_csharp.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\ogr_csharp.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\osr_csharp.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\Accord.xml
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\Accord.Math.xml
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\bin\Debug\Accord.Math.Core.xml
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.csprojResolveAssemblyReference.cache
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.dll
+c:\users\paula\documents\visual studio 2017\Projects\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.pdb
